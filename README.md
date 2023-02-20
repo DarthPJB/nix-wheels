@@ -1,6 +1,8 @@
 # nix-wheels
 Cad files for the *nix wheel* a pointless stacking 3D thing
 
+[![As seen on youtube](https://img.youtube.com/vi/Ak4X2TPoSyY/0.jpg)](https://youtu.be/Ak4X2TPoSyY)
+
 ## Folder Structure
 the orignal blender sources are in the *blender-sources* folder
 print-ready STL files are in the *stl* folder
